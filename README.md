@@ -41,3 +41,8 @@ The input will then be written to a new README file.
 
 The code will be formatted to fit the following: 
 ![generated README](./assets/img/app1.PNG)
+
+
+Attached is a video demo, which you can find a file of in the video folder of my assets folder.
+
+![demo video](./assets/video/READMEDEMO.webm)
