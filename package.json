@@ -1,0 +1,24 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "Assignment 9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KIMOISQUIGGLES/09-Node.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/KIMOISQUIGGLES/09-Node/issues"
+  },
+  "homepage": "https://github.com/KIMOISQUIGGLES/09-Node#readme"
+}
